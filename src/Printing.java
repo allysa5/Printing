@@ -22,6 +22,12 @@ public class Printing {
 						"|                                      |\n"+
 						"+--------------------------------------+");
 		
+		// assignment 2 a program for yourself
+		// name- Allysa Adams
+		// age 23
+		
+		System.out.println("Allysa Adams, 23");
+		
 	}
 
 }
